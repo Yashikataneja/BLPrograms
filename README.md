@@ -4,7 +4,7 @@ ARRAY : this is a linear data structure which holds the homogeneous data (same t
 
 It is access through arr[8] or arr[0] (through indices only).
 
-Array is of 3 types:
+Array is of 2 types: 1) single 2) multi
 
 best way to access values from arrays is loop, bcz when we have to perform repeated tasks, we use loops.
 
